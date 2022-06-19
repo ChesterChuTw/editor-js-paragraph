@@ -8,9 +8,9 @@
     "editor.js",
     "editorjs"
   ],
-  "description": "Paragraph Tool for Editor.js",
+  "description": "A clone from Paragraph Tool for Editor.js",
   "license": "MIT",
-  "repository": "https://github.com/editor-js/paragraph",
+  "repository": "https://github.com/ChesterChuTw/editor-js-paragraph",
   "main": "./dist/bundle.js",
   "scripts": {
     "build": "webpack --mode production",
